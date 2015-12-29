@@ -6,7 +6,7 @@ import java.util.Map;
 
 import java.util.StringTokenizer;
 
-public class ChangeMachineNew { 
+public class ChangeMachine_Old { 
 
 //Creating the ints of all of the coins 
 
